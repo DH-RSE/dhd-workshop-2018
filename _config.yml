@@ -19,7 +19,7 @@ description: |
   "Workshop im Rahmen der [DHd 2018](http://dhd2018.uni-koeln.de/). 27.2.2018. Universität zu Köln.
   
   Alexander Czmiel, Stephan Druskat, Torsten Schrade."
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jekyll
 
