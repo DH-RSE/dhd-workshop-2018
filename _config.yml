@@ -14,11 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "DHd 2018 Workshop \"Research Software Engineering und Digital Humanities. Reflexion, Kartierung, Organisation.\""
+author: Alexander Czmiel, Stephan Druskat, Tortsten Schrade
 email: dhd2018@sdruskat.net
-description: |
-  "Workshop im Rahmen der [DHd 2018](http://dhd2018.uni-koeln.de/). 27.2.2018. Universität zu Köln.
-  
-  Alexander Czmiel, Stephan Druskat, Torsten Schrade."
+description: Workshop im Rahmen der [DHd 2018](http://dhd2018.uni-koeln.de/). 27.2.2018. Universität zu Köln.
 baseurl: # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jekyll
