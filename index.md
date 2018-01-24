@@ -8,19 +8,27 @@ title: Programm
 
 ## Vorläufiges Programm
 
-### Plenarsession 09:00 - 10:30 Uhr
+### Plenarsession 09:00 - 10:00 Uhr
 
-1. Begrüßung - *09:00-09:10*
-2. Keynote (Sprecher tba) - *09:10-09:40*
-3. Warum eine AG 'DH-RSE'? (Sprecher tba) - *09:40-09:50* 
-4. RSEs in den Akademien: Best practices und State of the Art I (Torsten Schrade) - 09:50-10:10
-5. RSEs in den Akademien: Best practices und State of the Art II (Alexander Czmiel) - 10:10-10:30
+**09:00 - 09:15** Begrüßung und Impuls: Warum eine AG DH-RSE?
 
-### Arbeitssessions in Gruppen 11:00 - 12:30 Uhr
+**09:15 - 09:45** Keynote (Sprecher/in tba)
 
-#### Themen
+**09:45 - 10:00** Impuls: RSE an den Akademien - bisherige _best practices_
 
-- Manifest der AG "DH-RSE" in der DHd
-- Ausbildung, Training, Software Carpentry
-- Infrastruktur für die AG "DH-RSE" in der DHd
-- Definitionsfragen: Sustainability, Software, Services, Dokumentation
+### Arbeitssessions 10:00 - 12:00 Uhr
+
+**10:00 - 11:00** _Breakout Groups I_
+
+a) Ausbildung, Training, Software Carpentry, Standards  
+b) Struktur, Infrastruktur, Workflows für die AG DH-RSE  
+c) Definitionen: Sustainability, Software, Dokumentation, etc.  
+d) Manifest der AG DH-RSE; mit agiler Integration von Gruppen a), b), c)
+
+**11:00 - 11:15** Pause
+
+**11:15 - 12:00** _Breakout Groups II_
+
+### Wrap-Up des Workshops 12:00 - 12:30 Uhr
+
+Zusammenführung, weitere Schritte, Online-Publikation der Arbeitsergebnisse
