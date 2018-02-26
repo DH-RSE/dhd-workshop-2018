@@ -33,7 +33,7 @@ kurzen Blogeinträgen, die auf der Website der AG DH-RSE veröffentlicht werden.
 
 **10:00 - 10:15** Methodisches: Breakout Groups und Speed Blogs
 
-### Arbeitssessions 10:15 - 12:00 Uhr
+### Arbeitssessions 10:15 - 11:45 Uhr
 
 **10:15 - 11:00** _Breakout Groups I_
 
